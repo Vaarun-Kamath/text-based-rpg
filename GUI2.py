@@ -23,6 +23,8 @@ medium_potion=1 #increases hp by 40, cost=450 gold
 which_potion = 0  # variable that lets you select the potion that you want to take.
 my_ass=TRUE
 
+# hello this is varun :)
+
 def get_room():
     rav = 0
     if (rav%20!= 0):  # a loop to make sure that the bossmonster doesnt appear until upto 20 iterations in the game
