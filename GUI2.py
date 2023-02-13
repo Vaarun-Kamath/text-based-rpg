@@ -21,7 +21,7 @@ potion = 1  # increases hp by 30. Cost=300 gold
 ultra_potion = 1  # increases hp by 50. Cost=600 gold
 medium_potion=1 #increases hp by 40, cost=450 gold
 which_potion = 0  # variable that lets you select the potion that you want to take.
-
+my_ass=TRUE
 
 def get_room():
     rav = 0
